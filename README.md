@@ -9,4 +9,4 @@ All other R files ('explicit_derivatives_xv_CIC.R', 'functions_information_crite
 
 # Results
 
-All results, tables, and discussion are presented in the file 'PSEUDOLIKELIHOOD_INFORMATION_CRITERIA.pdf'
+All results, tables, and discussion are presented in the file 'PSEUDO_LIK_INF_CRITERIA_1000_REPLICATIONS.pdf'
